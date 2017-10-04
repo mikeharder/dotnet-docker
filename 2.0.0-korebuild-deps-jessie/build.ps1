@@ -1,0 +1,1 @@
+docker build -t microsoft/dotnet:2.0.0-korebuild-deps-jessie .
